@@ -1,0 +1,27 @@
+.nav-img{
+    width: 15vw;
+}
+.gal-img{
+    width: 50vw;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.gal-vid{
+    width: 50vw;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}.photos{
+    background-color: beige;
+    text-align: center;
+    height: 260px;
+    overflow-x: scroll;
+    justify-content: space-between;
+}
+.videos{
+    background-color: beige;
+    text-align: center;
+    height: 260px;
+    overflow-x: scroll;
+    justify-content: space-between;
+}
